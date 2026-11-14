@@ -36,38 +36,22 @@ Launching the game with an unresolved cyclic rule issue will crash it: the mods 
 
 ### Part 2: Re-apply the collection's rules
 
-**7.** Go to the **Mods** tab, right-click the **A StoryWealth** collection and choose **Reinstall**.
+**7.** Go to the **Mods** tab, right-click the **A StoryWealth** collection and choose **Apply Collection Rules**.
 
 ![](07.png)
 
-> If Reinstall gives you an "unknown download" error, use **Apply Collection Rules** from the same menu instead, then continue at step 11.
->
-> ![](12.png)
+**Using a collection add-on?** Do the same for each add-on before step 8.
 
-**8.** Choose **Replace the existing mod**.
+**8.** Go back to the **Plugins** tab and click **Sort Now**.
 
 ![](08.png)
-
-**9.** Don't disable mods, even though this window suggests it. Click **Close**.
-
-![](09.png)
-
-**10.** Choose **Install Now** on the current profile.
-
-![](10.png)
-
-**Using a collection add-on?** Repeat steps 7 to 10 for the add-on before step 11.
-
-**11.** When the installation has finished, click **Sort Now** in the Plugins tab.
-
-![](11.png)
 
 ## Still getting the error?
 
 **Remove custom rules:** in the cyclic rule window, tick **Remove Custom Rule** and click **Apply Selected**.
 
-![](13.png)
+![](09.png)
 
 **Leftover rule lines:** if you see a line like the one below, right-click it and remove it.
 
-![](14.png)
+![](10.png)
